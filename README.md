@@ -6,4 +6,4 @@ Creating a chatbot with google open source llm
 
 -> file12.py is with many loops, so you can create a full conversation with the ai agent (gemini model) and can exit the loop with keyword 'exit'
 
--> file13.py is an updated version of file12.py, but with added memory and with a new conversation chain to create an chain of interactions with ai agent
+-> file13.py is an updated version of file12.py, but with added memory and with a new conversation chain to create an chain of interactions with ai agent (it has an error with the runnable instance of the model)
