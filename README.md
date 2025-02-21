@@ -11,3 +11,5 @@ Creating a chatbot with google open source llm
 -> file17.py is a simple version using the ChatGoogleGenerativeAI that is operative without error, this will help me to build an ai agent that has also memory. The previous ai agents build on generativeai module are operative without any error but is very difficult to build the memory part. 
 
 -> file17.py is fully updated with usage of ConversationBufferMemory for memory of AI Agent, now you can make a normal conversation because the AI Agent has memory of previous prompts and the conversation makes sense.
+
+-> file_interface.py is the most complete version till now with interface using streamlit
