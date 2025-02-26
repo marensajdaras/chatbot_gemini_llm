@@ -13,3 +13,5 @@ Creating a chatbot with google open source llm
 -> file17.py is fully updated with usage of ConversationBufferMemory for memory of AI Agent, now you can make a normal conversation because the AI Agent has memory of previous prompts and the conversation makes sense.
 
 -> file_interface.py is the most complete version till now with interface using streamlit
+
+-> PNG files show that the ai agent function and that the ai agent has memory to give better convenient answers 
